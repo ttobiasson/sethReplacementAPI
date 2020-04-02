@@ -5,7 +5,7 @@ import javax.persistence.Id;
 import javax.validation.constraints.NotNull;
 import java.awt.print.Book;
 
-public class Handler {
+public class GetHandler {
 
 
     public <T> T getCandidates() {

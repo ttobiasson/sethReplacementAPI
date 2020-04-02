@@ -36,6 +36,11 @@
             <artifactId>sawtooth-sdk-protos</artifactId>
             <version>v0.1.2</version>
         </dependency>
+        <dependency>
+            <groupId>co.nstant.in</groupId>
+            <artifactId>cbor</artifactId>
+            <version>0.4</version>
+        </dependency>
     </dependencies>
 
 
